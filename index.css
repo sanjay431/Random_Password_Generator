@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Karla&display=swap');
+body {
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1 {
+    font-family:'karla';
+    color: white;
+    margin: 0px;
+}
+h2 {
+    font-family: 'inter';
+    color: #10B981;
+    margin:0px;
+}
+.headings h3 {
+    font-size: 20px;
+    color: white;
+    margin: 0px;
+    font-family: 'inter';
+    font-weight: 10;
+}
+
+#main {
+    font-family: 'inter';
+    color: white;
+    background-color: #10B981;
+    border: none;
+    width: 191px;
+    height: 42px;
+    border-radius: 6px;
+    margin: 0px 30px;
+    cursor: pointer;
+}
+div {
+    margin: 50px 30px;
+    margin-bottom: 20px;
+}
+#linebreak {
+    border: 1px solid #2F3E53;
+}
+.btn {
+    background-color: #273549;
+    margin-left: 30px;
+    border: none;
+    width:211px;
+    height: 39px;
+    margin-top: 25px;
+    color: white;
+    cursor: pointer;
+}
+
+
